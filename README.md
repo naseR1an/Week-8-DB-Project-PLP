@@ -29,7 +29,7 @@ USE ClinicDB;
 
 ** Copy and execute the full SQL script (including table creation and sample data).
 
-## Accessing the ERD
+## Visual of the ERD
 ![Clinic ERD](https://github.com/naseR1an/Week-8-DB-Project-PLP/blob/main/image.png)
 
 
